@@ -4,7 +4,7 @@ public class JavaErrors_01 {
     public static void main(String[] args) {
         /*
          * There are basically 3 types of errors:
-         * 1. Syntex Error
+         * 1. Syntax Error
          * 2. Logical Error
          * 3. Runtime Error
          */
